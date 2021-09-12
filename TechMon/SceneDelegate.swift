@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  TechMon
+//  count
 //
-//  Created by Neo Takehiro on 2021/05/02.
+//  Created by Neo Takehiro on 2021/06/13.
 //
 
 import UIKit
